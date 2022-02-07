@@ -37,3 +37,8 @@ pip install mysql-connector-python
 
 **Note: Replace default values in modules.py by your mysql username and password.**   
 
+
+### Images:
+
+![Main Screen](/home/shujat/Pictures/add_cust.png)
+
