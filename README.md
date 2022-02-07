@@ -3,6 +3,8 @@
 ### Description: This program will help you to manage all the customers with ease.   
 
 
+pip install mysql-connector-python.  
+
 [+] How to use?
 
 * git clone https://www.github.com/tak-shuja/shop_management.git
