@@ -1,7 +1,7 @@
 from tkinter.ttk import setup_master
 from modules import *
 
-# ADD SORT BY NAME PLEASE
+
 
 
 def view_customers():
