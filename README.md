@@ -39,5 +39,5 @@ pip install mysql-connector-python
 
 ### Images:
 
-![Main Screen](/home/shujat/Pictures/add_cust.png)
+![Add Customers](/assets/add_cust.png)
 
