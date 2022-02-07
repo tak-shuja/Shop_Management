@@ -5,7 +5,7 @@
 
 [+] How to use?
 
-* In terminal type: git clone https://www.github.com/tak-shuja/shop_management.git
+* git clone https://www.github.com/tak-shuja/shop_management.git
 * Start mysql server.
 * Create a user and add a password.
 * Run the following queries in mysql terminal:  
