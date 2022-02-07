@@ -1,6 +1,5 @@
 ### Project name: Shop_Management.   
 ### Author: Shuja Tak.   
-### Description: This program will help you to manage all the customers with ease.   
 
 
 pip install mysql-connector-python  
