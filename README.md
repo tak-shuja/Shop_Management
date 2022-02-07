@@ -33,5 +33,5 @@
 
 4. Run main.py
 
-**Note: Replace default values in modules.py by your username and password.**   
+**Note: Replace default values in modules.py by your mysql username and password.**   
 
