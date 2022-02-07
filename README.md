@@ -5,7 +5,7 @@
 
 pip install mysql-connector-python.  
 
-[+] How to use?
+###[+] Instructions
 
 * git clone https://www.github.com/tak-shuja/shop_management.git
 * Start mysql server.
