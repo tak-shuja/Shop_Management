@@ -5,11 +5,11 @@ Description: This program will help you to manage all the customers with ease.
 
 [+] How to use?
 
-1. In terminal type: git clone https://www.github.com/tak-shuja/shop_management.git
-2. Start mysql server.
-3. Create a user and add a password.
-4. Run the following queries in mysql terminal:
-    1 "create databse customers;"
+* In terminal type: git clone https://www.github.com/tak-shuja/shop_management.git
+* Start mysql server.
+* Create a user and add a password.
+* Run the following queries in mysql terminal:*  
+    1. "create databse customers;"
     2. "use customers;"
     3. "create table customers(
         id int not null auto_increment,
