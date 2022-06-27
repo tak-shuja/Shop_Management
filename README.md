@@ -10,12 +10,12 @@ pip install mysql-connector-python
 * Start mysql server.
 * Create a user and add a password.
 * Run the following queries in mysql terminal:  
-    * create databse customers;
+    * create database customers;
     * use customers;
     * create table customers(
         id int not null auto_increment,
         name varchar(40) not null,
-        adderess varchar(40) not null,
+        address varchar(40) not null,
         paid varchar(10) not null,
         unpaid varchar(10) not null,
         primary key(id)
